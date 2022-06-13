@@ -7,7 +7,7 @@ namespace Exercise_Employee
     {
         static void Main(string[] args)
         {
-            //Programa que ler Nº de funcionário, horas trabalhadas e quanto recebe por hora
+            //Programa que lê Nº de funcionário, horas trabalhadas e quanto recebe por hora
             //Calculando também o salário desse funcionário
             int nºFunc = int.Parse(Console.ReadLine());
             int htraba = int.Parse(Console.ReadLine());
